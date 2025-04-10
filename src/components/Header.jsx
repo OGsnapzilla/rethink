@@ -12,7 +12,9 @@ function MenuComponent() {
   };
 
   const handleLinkClick = () => {
-    setMenuOpen(false); // Close menu on link click
+    setMenuOpen(false); // Close menu on link click 
+
+    //ÆNDRING TEST
   };
 
   return (
