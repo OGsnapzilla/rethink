@@ -1,0 +1,43 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.kontaktTekst {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: -70px;
+    margin-bottom: 50px;
+}
+
+
+@media (min-width: 768px) {
+    h1 {
+        margin-bottom: 4rem;
+    }
+
+    .kontaktGrid {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        grid-template-rows: repeat(1, auto);
+        gap: 150px;
+        
+        
+    }
+
+    .kontaktTekst {
+        grid-column: span 3;
+        grid-row: 1;
+    }
+
+    .formularGrid {
+        grid-column: 5;
+        grid-row: 1;
+        margin-top: 20px;
+    }
+
+   
+
+   
+    
+}

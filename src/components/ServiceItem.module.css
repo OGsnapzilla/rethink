@@ -1,0 +1,44 @@
+.item {
+    background-color: #b4ab7e;
+    padding: 1rem;
+    border-radius: 10px;
+    transition: transform 0.2s;
+  }
+  .item:hover {
+    transform: scale(1.05);
+  }
+  .item p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 1px;
+    font-size: 1.5rem;
+}
+
+@media (min-width: 768px) {
+   .item{
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+    padding: 1rem;
+    transition: transform 0.2s;
+
+   }
+      
+   .item img {
+    width: 140px;
+    height: 140px;
+    object-fit: contain;
+    margin-top: -1.5rem;
+  }
+  
+  .item p {
+    font-size: 1.1rem;
+    margin: 0;
+  }
+
+}

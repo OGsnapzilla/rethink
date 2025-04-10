@@ -1,0 +1,15 @@
+.item {
+    background-color: #b4ab7e;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  .question {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .answer {
+    margin-top: 0.5rem;
+  }

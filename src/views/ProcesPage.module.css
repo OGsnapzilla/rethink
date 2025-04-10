@@ -1,0 +1,189 @@
+.overskrift {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    
+}
+
+.tidslinje img {
+    width: 45%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    margin-top: 70px;
+}
+
+.tidslinje {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    position: relative;
+
+}
+
+.stepsGrid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: repeat(8, auto);
+    gap: 3rem;
+    max-width: 1200px;
+    margin: -1000px auto;
+    padding: 2rem;
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+  }
+  
+  /* Placer hvert step i bestemte celler */
+  .stepEt {
+    grid-column: 1;
+    grid-row: 1;
+    margin-left: -110px;
+    margin-top: 300px;
+    font-size: small;
+
+  }
+  
+  .stepTo {
+    grid-column: 2;
+    grid-row: 2;
+    font-size: small;
+    margin-top: -100px;
+    
+  }
+  
+  .stepTre {
+    grid-column: 1;
+    grid-row: 3;
+    font-size: small;
+    margin-top: -120px;
+    margin-left: -110px;
+
+  }
+  
+  .stepFire {
+    grid-column: 2;
+    grid-row: 4;
+    font-size: small;
+    margin-top: -70px;
+  }
+  
+  .stepFem {
+    grid-column: 1; 
+    grid-row: 8;
+    font-size: small;
+    margin-top: -270px;
+    margin-left: -110px;
+    
+  }
+/*Styling af knap*/
+  .tilbudKnap :link { /* Styling af selve teksten inde i knappen*/
+    text-decoration: none;
+    color: #000;
+    font-family: Impact, Haettens;
+    display: flex;
+    justify-content: center;
+
+  }
+
+  .tilbudKnap {
+    border-radius: 30px;
+    border-style: solid, #64736A;
+    padding: 10px;
+    background-color: #64736A;
+    margin-top: 90px;
+    margin-right: 60px;
+    margin-left: 30px;
+    
+  }
+  
+  .tilbudKnap:hover {
+    background-color: #A39C6E;
+  }
+
+
+  
+
+
+  /*Styling desktop*/
+  @media (min-width: 768px) {
+    .tidslinje img {
+        rotate: 270deg;
+        height: 50%;
+        width: 150px;
+        margin-top: -100px;
+        
+    }
+    
+
+    .stepsGrid {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr); /* 5 lige brede kolonner */
+        grid-template-rows: repeat(2, auto);
+        gap: 2rem;
+        max-width: 100%;
+        margin: -800px 0 0 -250px;
+        padding: 2rem;
+        text-align: left;
+      }
+      
+      .stepEt {
+        grid-column: 1;
+        grid-row: 1;
+        margin-left: -100px;
+      }
+      
+      .stepTo {
+        grid-column: 2;
+        grid-row: 1;
+        margin-top: 150px;
+      }
+      
+      .stepTre {
+        grid-column: 3;
+        grid-row: 2;
+        margin-top: -50px;
+        margin-left: -50px;
+      }
+      
+      .stepFire {
+        grid-column: 4;
+        grid-row: 1;
+        margin-top: 150px;
+        margin-left: -140px;
+      }
+      
+      .stepFem {
+        grid-column: 5;
+        grid-row: 2;
+        margin-top: -50px;
+        margin-left: -190px;
+      }
+
+      .tilbudKnap :link { /* Styling af selve teksten inde i knappen*/
+        text-decoration: none;
+        color: #000;
+        font-family: Impact, Haettens
+
+      }
+
+      .tilbudKnap {
+        margin-top: -250px;
+        border-radius: 30px;
+        border-style: solid, #64736A;
+        padding: 10px;
+        background-color: #64736A;
+        margin-right: -300px;
+        margin-left: 820px;
+        
+      }
+      
+      .tilbudKnap:hover {
+        background-color: #A39C6E;
+      }
+
+
+
+  }
+  

@@ -1,0 +1,52 @@
+.startPhoto {
+    width: 150%;
+    margin-top: -200px;
+  
+    
+}
+
+/* Styling for the start page */
+.startcontent {
+    display: flex;
+    flex-direction: column; /* Stack elements vertically */
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+}
+
+.animation {
+    width: 150px;
+}
+
+.startcontent h1 {
+  font-size: 48px;
+  opacity: 1;
+  transition: opacity 1s ease-in-out;
+}
+
+/* Initially, hide the content */
+.content {
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+  padding: 20px;
+}
+
+/* When the content becomes visible */
+.content.visible {
+  opacity: 1;
+}
+
+/* Add some space for scrolling to reveal content */
+.content p {
+  line-height: 1.6;
+  font-size: 16px;
+}
+
+/* ✅ Desktop layout */
+@media (min-width: 768px) {
+ .startPhoto {
+    width: 60%;
+    margin-top: 20px;
+ }
+}

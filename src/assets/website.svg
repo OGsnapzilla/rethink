@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Lag_5" data-name="Lag 5" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96.73 93.82">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffce0a;
+      }
+
+      .cls-2 {
+        fill: #7ebb48;
+      }
+
+      .cls-3 {
+        fill: #135767;
+      }
+
+      .cls-4 {
+        fill: #25723a;
+      }
+
+      .cls-5 {
+        fill: #437fb9;
+      }
+
+      .cls-6 {
+        fill: #e52628;
+      }
+
+      .cls-7 {
+        fill: #d6edf2;
+      }
+    </style>
+  </defs>
+  <rect class="cls-7" x="8.68" y="4.79" width="71.03" height="79.51"/>
+  <rect class="cls-3" x="8.68" y="4.79" width="71.03" height="7.2"/>
+  <circle class="cls-6" cx="12.2" cy="8.39" r="2.51"/>
+  <circle class="cls-1" cx="18.36" cy="8.39" r="2.51"/>
+  <circle class="cls-2" cx="24.52" cy="8.39" r="2.51"/>
+  <rect class="cls-5" x="48.46" y="19.3" width="25.5" height="22.49"/>
+  <rect class="cls-5" x="12.2" y="47.25" width="61.76" height="2.48"/>
+  <rect class="cls-5" x="12.2" y="51.4" width="61.76" height="2.48"/>
+  <rect class="cls-5" x="12.2" y="55.55" width="61.76" height="2.48"/>
+  <rect class="cls-5" x="12.2" y="19.3" width="32" height="2.66"/>
+  <rect class="cls-5" x="12.2" y="23.46" width="32" height="2.66"/>
+  <rect class="cls-5" x="12.2" y="27.74" width="32" height="2.66"/>
+  <path class="cls-4" d="M79.44,59.7c-9.12,0-16.52,7.39-16.52,16.52s7.39,16.52,16.52,16.52,16.52-7.39,16.52-16.52-7.39-16.52-16.52-16.52ZM88.76,78.77h-7.12v6.76h-4.6v-6.76h-6.91v-4.6h6.91v-7.27h4.6v7.27h7.12v4.6Z"/>
+</svg>

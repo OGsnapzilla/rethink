@@ -1,0 +1,184 @@
+
+.bulletPoints {
+    margin-left: -20px;
+}
+
+
+
+.animationGrid {
+    display: grid;
+    grid-template-columns: 1fr, 1,fr;
+    grid-template-rows: repeat(2, auto);
+}
+
+.gridAni {
+    grid-column: 1;
+    grid-row: 1;
+    width: 50px;
+    margin-left: -110px;
+
+}
+
+.gridAni video {
+    width: 30rem;
+}
+
+ 
+.bulletPoints {
+    grid-column: 1;
+    grid-row: 2;
+    margin-left: -40px;
+    margin-top: 40px;
+    
+    
+}
+
+/*Information under bulletpoints*/
+.informationEt {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 120px 0 0 -40px;
+}
+
+.informationTo {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 100px 0 0 -40px;
+}
+
+/*Knapper*/
+.knapEt :link {
+    text-decoration: none;
+    margin-left: 35px;
+    color: #000;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.knapEt {
+    margin-top: 15px;
+    border-radius: 30px;
+    border-style: solid, #64736A;
+    padding: 10px;
+    background-color: #64736A; 
+    margin-left: 120px;
+    
+
+}
+
+.knapEt:hover {
+    background-color: #A39C6E;
+}
+
+
+.knapTo :link {
+    text-decoration: none;
+    color: #000;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 35px;
+
+}
+
+.knapTo {
+    margin-top: 15px;
+    border-radius: 30px;
+    border-style: solid, #64736A;
+    padding: 10px;
+    background-color: #64736A;
+    margin-left: 120px;
+    
+}
+
+.knapTo:hover {
+    background-color: #A39C6E;
+}
+
+/*Styling desktop*/
+@media (min-width: 768px){
+    .frontpage img {
+        width: 60%
+    }
+
+    .animationGrid {
+        display: grid;
+        grid-template-columns: 3fr, 1fr;
+        grid-template-rows: repeat(1, auto);
+    }
+    
+    .gridAni {
+        grid-column: 1;
+        grid-row: 1;
+        margin-left: -350px;
+        margin-top: 50px;
+    }
+
+    .gridAni video {
+        width: 40rem;
+    }
+    
+    
+    .bulletPoints {
+        grid-column: 2 / 3;
+        grid-row: 1;
+        margin-left: 100px;
+        margin-right: -600px;
+        margin-top: 150px;
+        
+    }
+
+    .informationEt {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        margin: 200px 0 0 -100px;
+    }
+    
+
+    .informationTo {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        margin: -100px -200px 0 500px;
+    }
+
+    .knapEt :link {
+        text-decoration: none;
+        margin-left: 20px;
+        color: #000;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        
+
+    }
+
+    .knapEt {
+        margin-top: 15px;
+        border-radius: 30px;
+        border-style: solid, #64736A;
+        margin-right: 500px;
+        padding: 10px;
+        background-color: #64736A;
+        
+    }
+
+    .knapEt:hover {
+        background-color: #A39C6E;
+    }
+
+    .knapTo :link {
+        text-decoration: none;
+        color: #000;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        margin-left: 25px;
+
+    }
+
+    .knapTo {
+        margin-top: 15px;
+        border-radius: 30px;
+        border-style: solid, #64736A;
+        margin-right: 100px;
+        padding: 10px;
+        background-color: #64736A;
+        
+        
+    }
+
+    .knapTo:hover {
+        background-color: #A39C6E;  
+    }
+
+
+}

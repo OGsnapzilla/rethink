@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+.bulletPoints h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-bottom: 20px;
+}
+
+.bulletPoints ul {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+

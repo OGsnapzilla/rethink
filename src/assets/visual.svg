@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Lag_4" data-name="Lag 4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96.73 93.82">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffce0a;
+      }
+
+      .cls-2 {
+        fill: #010101;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: #231f20;
+      }
+
+      .cls-4 {
+        font-family: Verdana, Verdana;
+        font-size: 7.88px;
+      }
+
+      .cls-6 {
+        fill: #ef7a29;
+      }
+
+      .cls-5 {
+        font-family: ReklameScript-Regular, 'ReklameScript Regular';
+        font-size: 12.98px;
+      }
+
+      .cls-7 {
+        fill: #25723a;
+      }
+
+      .cls-8 {
+        fill: #929497;
+      }
+
+      .cls-9 {
+        fill: #437fb9;
+      }
+
+      .cls-10 {
+        fill: #e52628;
+      }
+
+      .cls-11 {
+        fill: #be202e;
+      }
+
+      .cls-12 {
+        fill: #d6edf2;
+      }
+
+      .cls-13 {
+        fill: #255479;
+      }
+
+      .cls-14 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <path class="cls-9" d="M20.81,24.8h44.02c3.66,0,6.63,2.97,6.63,6.63v27.87H14.17v-27.86c0-3.67,2.98-6.65,6.65-6.65Z"/>
+  <rect class="cls-12" x="28.06" y="15.89" width="29.52" height="52.32" transform="translate(84.87 -.77) rotate(90)"/>
+  <polygon class="cls-9" points="80.59 78.11 5.37 78.11 14.17 59.3 71.47 59.3 80.59 78.11"/>
+  <polygon class="cls-12" points="11.65 70.7 15.75 61.79 69.91 61.79 74.66 70.7 11.65 70.7"/>
+  <path class="cls-13" d="M77.99,80.77H7.98c-.58,0-1.11-.29-1.42-.78l-1.19-1.89h75.22l-1.18,1.87c-.31.49-.85.79-1.43.79Z"/>
+  <rect class="cls-12" x="37.76" y="72.33" width="10.12" height="4.14"/>
+  <text class="cls-4" transform="translate(20.19 39.87)"><tspan x="0" y="0">Visuel </tspan><tspan x="0" y="9.45">Identitet</tspan></text>
+  <g>
+    <g>
+      <rect class="cls-8" x="74.96" y="21.96" width="17.53" height="44.86" transform="translate(-7.06 17.2) rotate(-11.26)"/>
+      <rect class="cls-6" x="77.58" y="38.46" width="12.4" height="12.4" transform="translate(-7.11 17.22) rotate(-11.26)"/>
+      <rect class="cls-10" x="80.32" y="52.19" width="12.4" height="12.4" transform="translate(-9.74 18.02) rotate(-11.26)"/>
+      <rect class="cls-1" x="74.85" y="24.73" width="12.4" height="12.4" transform="translate(-4.48 16.42) rotate(-11.26)"/>
+    </g>
+    <g>
+      <rect class="cls-8" x="63.91" y="26.91" width="18.08" height="46.26" transform="translate(-15.52 49.74) rotate(-34.26)"/>
+      <rect class="cls-13" x="66.72" y="43.89" width="12.79" height="12.79" transform="translate(-15.62 49.87) rotate(-34.26)"/>
+      <rect class="cls-12" x="74.84" y="55.82" width="12.79" height="12.79" transform="translate(-20.93 56.52) rotate(-34.26)"/>
+      <rect class="cls-7" x="58.59" y="31.95" width="12.79" height="12.79" transform="translate(-10.31 43.23) rotate(-34.26)"/>
+    </g>
+    <circle class="cls-3" cx="85.45" cy="68.4" r=".78"/>
+  </g>
+  <g>
+    <circle class="cls-1" cx="11.6" cy="27.02" r="10.89"/>
+    <text class="cls-5" transform="translate(6.84 29.96)"><tspan class="cls-14" x="0" y="0">A</tspan><tspan x="8" y="0">a</tspan></text>
+  </g>
+  <circle class="cls-11" cx="28.58" cy="17.12" r="10.83"/>
+  <path class="cls-2" d="M34.21,11.52c.17.14.27.34.27.56v3.26c0,.6-.65,1.09-1.45,1.09s-1.45-.49-1.45-1.09.65-1.09,1.45-1.09v-1.29l-2.17.43v2.67c0,.6-.65,1.09-1.45,1.09s-1.45-.49-1.45-1.09.65-1.09,1.45-1.09v-2.17c0-.35.24-.64.58-.71l3.62-.72c.21-.04.43.01.6.15h0ZM24.57,18.24l.27-.4c.13-.2.36-.32.6-.32h1.4c.24,0,.47.12.6.32l.27.4h.6c.6,0,1.09.49,1.09,1.09v2.54c0,.6-.49,1.09-1.09,1.09h-4.35c-.6,0-1.09-.49-1.09-1.09v-2.54c0-.6.49-1.09,1.09-1.09h.6ZM27.22,20.59c0-.6-.49-1.09-1.09-1.09s-1.09.49-1.09,1.09.49,1.09,1.09,1.09,1.09-.49,1.09-1.09ZM33.72,17.65l-.87,2.03h1.26c.15,0,.29.09.34.24.05.14.01.3-.1.4l-2.9,2.54c-.13.11-.31.12-.45.02s-.19-.28-.12-.43l.87-2.03h-1.26c-.15,0-.29-.09-.34-.24s-.01-.3.1-.4l2.9-2.54c.13-.11.31-.12.45-.02.14.1.19.28.12.43h0ZM26.04,16.31c-.15.15-.39.15-.52,0l-2.19-2.26c-.63-.66-.6-1.74.11-2.35.61-.53,1.55-.43,2.12.15l.23.24.22-.24c.57-.58,1.49-.68,2.13-.15.7.61.74,1.7.1,2.35l-2.18,2.26h0Z"/>
+</svg>
